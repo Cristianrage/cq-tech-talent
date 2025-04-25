@@ -1,0 +1,16 @@
+header{
+    background-color: darkmagenta;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+footer{
+    background-color: darkmagenta;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.nav-list{
+    list-style: none;
+    text-decoration: none;
+    color: brown;
+    background-color: darkorchid;
+}
